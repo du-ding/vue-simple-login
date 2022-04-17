@@ -1,0 +1,22 @@
+.dtitle {
+  margin-bottom: 6px;
+  margin-top: 24px;
+  font-size: 16px;
+  height: 16px;
+  line-height: 16px;
+  width: 100%;
+  color: #001529;
+  position: relative;
+  padding-left: 7.0012px;
+}
+
+.dtitle:before {
+  content: "";
+  border-left: 3px solid #001529;
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-45%);
+  height: 80%;
+}

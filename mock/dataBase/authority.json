@@ -1,0 +1,24 @@
+{
+  "admin": [
+    "home",
+    "product",
+    "role",
+    "authority",
+    "user",
+    "params",
+    "job1",
+    "job2",
+    "productDetailIndex",
+    "mouldA",
+    "mouldB"
+  ],
+  "user1": [
+    "home",
+    "product",
+    "role",
+    "job2"
+  ],
+  "user2": [
+    "home"
+  ]
+}

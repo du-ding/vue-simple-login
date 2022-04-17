@@ -1,0 +1,5 @@
+.clearfix ::after,.clearfix::before{
+    display: table;
+    content: ' ';
+    clear: both;
+}
