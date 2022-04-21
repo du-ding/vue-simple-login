@@ -38,7 +38,7 @@ npm run build
 ![image](https://raw.githubusercontent.com/du-ding/vue-simple-login/master/src/assets/readme/user1.PNG)<br />
 #### 3.权限配置
 
-用户权限与路由联动
+用户权限与路由联动<br />
 ![image](https://raw.githubusercontent.com/du-ding/vue-simple-login/master/src/assets/readme/authory.PNG)
 
 #### 4.Tab标签
