@@ -32,10 +32,10 @@ npm run build
 可以根据路由配置，自动生成多级菜单。<br />
 可以根据项目需求，变化菜单内容。<br />
 可以根据用户权限不同，展示不同的菜单。<br />
-![image](https://github.com/du-ding/vue-simple-login/blob/master/src/assets/readme/product.PNG)
+![image](https://github.com/du-ding/vue-simple-login/blob/master/src/assets/readme/product.PNG)<br />
 
-![image](https://raw.githubusercontent.com/du-ding/vue-simple-login/master/src/assets/readme/product2.PNG)
-![image](https://raw.githubusercontent.com/du-ding/vue-simple-login/master/src/assets/readme/user1.PNG)
+![image](https://raw.githubusercontent.com/du-ding/vue-simple-login/master/src/assets/readme/product2.PNG)<br />
+![image](https://raw.githubusercontent.com/du-ding/vue-simple-login/master/src/assets/readme/user1.PNG)<br />
 #### 3.权限配置
 
 用户权限与路由联动
@@ -49,5 +49,5 @@ npm run build
 #### 5.动态keep-alive
 子路由的keep-alive设置为true，并且在路由表中设置子路由name和对应的组件name一致，就可以配置某些组件为keep-alive模式
 #### 6.可视化大屏
-使用Datav，echarts实现一个极简的数据可视化大屏。
+使用Datav，echarts实现一个极简的数据可视化大屏。<br />
 ![image](https://raw.githubusercontent.com/du-ding/vue-simple-login/master/src/assets/readme/screen.png)
