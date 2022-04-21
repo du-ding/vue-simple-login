@@ -35,7 +35,7 @@ npm run build
 ![image](https://github.com/du-ding/vue-simple-login/blob/master/src/assets/readme/product.PNG)
 
 ![image](https://raw.githubusercontent.com/du-ding/vue-simple-login/master/src/assets/readme/product2.PNG)
-
+![image](https://raw.githubusercontent.com/du-ding/vue-simple-login/master/src/assets/readme/user1.PNG)
 #### 3.权限配置
 
 用户权限与路由联动
