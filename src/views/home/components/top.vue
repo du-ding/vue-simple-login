@@ -12,7 +12,7 @@
     <dv-decoration-2 style="width:200px;height:5px;" />
     <dv-decoration-8 style="width:300px;height:50px;" />
     <div class="title">
-      <span style="font-size:26px;color:white">可视化大屏</span>
+      <span style="font-size:26px;color:white">可视大屏</span>
       <dv-decoration-6 style="width:300px;height:20px;" />
     </div>
 
